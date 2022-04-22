@@ -1,4 +1,4 @@
-module maikson/ethernet
+module maikson/ethertool
 
 go 1.18
 

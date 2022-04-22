@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"maikson/ethernet/internal/pkg/ethernet"
+	"maikson/ethertool/internal/pkg/ethernet"
 	"net"
 	"time"
 )
